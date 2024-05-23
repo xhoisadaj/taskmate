@@ -4,6 +4,8 @@ TaskMate is a simple and intuitive task manager application built with React. It
 ## Demo
 Check out the live demo here.
 https://taskmate-xhoi.netlify.app/
+Check out the live demo [here](https://taskmate-xhoi.netlify.app/).
+
 
 # Table of Contents
 # Features
