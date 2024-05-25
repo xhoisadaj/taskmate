@@ -64,36 +64,33 @@ It correctly bundles React in production mode and optimizes the build for the be
 Note: this is a one-way operation. Once you eject, you can't go back!
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
-Learn More
-You can learn more in the Create React App documentation.
 
-To learn React, check out the React documentation.
+## Learn More
 
-## Code Splitting
-This section has moved here.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Analyzing the Bundle Size
-This section has moved here.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Making a Progressive Web App
-This section has moved here.
+### Code Splitting
 
-## Advanced Configuration
-This section has moved here.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## Deployment
-This section has moved here.
+### Analyzing the Bundle Size
 
-npm run build fails to minify
-This section has moved here.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any bugs, improvements, or features you would like to add.
+### Making a Progressive Web App
 
-Fork the repository.
-Create your feature branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
